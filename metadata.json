@@ -1,0 +1,6 @@
+{
+  "name": "StockSense: AI Inventory Management System",
+  "description": "Enterprise AI inventory management system for Nowshera Shopping Mall with real-time stock tracking, role-based controls, and intelligent stock assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
